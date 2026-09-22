@@ -2,9 +2,9 @@
 
 **Online appendix (Tables A–F and Fig. A) for the following article:**
 
-Choi, Hyuntae (2026), "Is Unethical Pro-Organizational Behavior Unitary? How its Associations with Organizational Identification and Ethical Leadership Vary by Behavior and Sector", *Korean Comparative Government Review*, 30(3).
+Choi, Hyuntae (2026), "Associations of Organizational Identification and Ethical Leadership with Acceptance of Unethical Pro-Organizational Behavior: Comparisons by Behavior Type and Sector", *Korean Comparative Government Review*, 30(3).
 
-최현태 (2026), 「비윤리적 친조직행동은 단일한가: 조직동일시의 선택적 관계와 윤리적 리더십의 조직 유형별 차이」, 『한국비교정부학보』, 30(3).
+최현태 (2026), 「비윤리적 친조직행동 수용성과 조직동일시 및 윤리적 리더십의 관계: 행동유형별 공·사조직 비교」, 『한국비교정부학보』, 30(3).
 
 The single file `Online_Appendix.pdf` contains the appendix referred to in the article:
 
